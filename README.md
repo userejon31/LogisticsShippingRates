@@ -24,3 +24,4 @@ Desde tu terminal:
 ```bash
 bash simple-interest.sh 1000 0.05 2
 ```
+
