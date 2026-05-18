@@ -19,8 +19,7 @@ All contributions undergo a code review process.
 Licensing:
 Contributions are licensed.
 
-
-# LogisticsShippingRates
+---
 
 Este repositorio ha sido desarrollado con un propósito académico y profesional, enfocado en la implementación de las mejores prácticas de desarrollo colaborativo en GitHub y la adopción de flujos estándares.
 
